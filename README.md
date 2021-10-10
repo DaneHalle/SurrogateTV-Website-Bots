@@ -3,6 +3,9 @@ In my work with SurrogateTV, I have developed and made a number of bots that int
 
 Some values were redacted.
 
+### Amplify-js version needed
+`aws-amplify@3.3.14`
+
 ## `chatlog.js`
 A chat listener that listens to all the chats in the given file. That file should be formated as follows:
 ```
